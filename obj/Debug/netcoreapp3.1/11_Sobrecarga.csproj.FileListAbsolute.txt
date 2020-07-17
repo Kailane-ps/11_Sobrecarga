@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.exe
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.deps.json
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.dll
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\bin\Debug\netcoreapp3.1\11_Sobrecarga.pdb
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.dll
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.pdb
+C:\Users\Kailane\Desktop\SENAI K\11_Sobrecarga\obj\Debug\netcoreapp3.1\11_Sobrecarga.genruntimeconfig.cache
